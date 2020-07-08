@@ -1,0 +1,872 @@
+{
+  "call1": {
+    "message": "Success",
+    "result": [
+      {
+        "message": "Success",
+        "input": "https://public.boxcloud.com/d/1/b1!RIry6ahSV7N3brTgKjWkr9MXy1mMH2v7kdDXSeEehG9g6QU-b6-3VRt2N5NC054zuypnPi52UjvM4ma8tGto2fCLjOKMPRXUsPwhjMDaoCOSOOZPtt21ATrjrLKMSx27y_m-6UTqnJw6Cjk-JX0UR2Hzp6zBEIgvXauORBKG_cH76KZl86eAlw4b86jUFlEtujMjYAZy1jcTTyK41m2gYTm4-Fuh3lKXYW38Y9Bu6csC-ATuMSxf7tpkPUBNQCcp8ikkGcn9b__mexVaF_sqkfTtGiXRomkVn7zOBAGeWvy4xu6wCKvC9NDxYiggAkk0aIftMEgtRPc9VfD4E-t0TTTjjZZDC9MV9a1cpYlcdDJC9wkxWJ9Yhpod1quptG7HJ8mXK58DlZqSExs7avENtwk7A0gU6DdYCw4PCAg8zt18oiwkhpiRFZQnb7d3LbyVOLjtWfMOVHF7efcaIEVdV7ihDUURSzQVmWYmwDeffY-Z_fq0iHk9OzsXmn2e8Y8_M87rv2dwmxr5pw0KKUBaqCBlSKJl2PavqmOWyweq4yJHwIy3xoR4UrDBJXGhADi9Us9RpewzTSfFWg1SsjC6nMrlCVKn2WmBhmf5SuaD4wkXke1gVPL6heuJjNuUFnDtYUOrhar-TW6CQRcGrQD05XzO9rewaRU8zzFt3vtOnR3eruzwAFyd1rThBZRMhMhqxJfWbjBE_UGhurGIPW4bVXQsZ9ZlWm97wOcA_xXhm0gvXEriyZaNwnJOCiPw3WGyKQkuCyc0UN3PYrFy_EsY_GZ2plkgMqYNSLElz7_4_C1TnvUEvTdpqbE-B1hhyfciCT4BwSRSZ84Vi81_SbjGEUwWN8yb3F6H1-QOsmX0lx6Uf9dfQWQWmpbN1UmXJh_ZDDdYkSWChW83ZUk8Gt2BAoWTgUEJ-_8ghL5m5gvjbqrzMdoANvN5dsP2Xd1blzMJwCY4ybJNoOwPuZODqmhoHWY7TGGyk5CveRu5Q7s3rwFxAk1YVN-1tuD9YEJnJERh02LlQ2mePF2dfnYAYo4yJm28tTniSk6y3e-VIFx1_hGRcC9GwcVFNDLLc18XmkzMw4qbF8WNXRdfyBK4dqj2OBNoYej9fUmhq39rMoNp3Mn9ShB-G_ns_eayCe1UZSPq7bGl04oGArWgbRaWnbtj7zarpfv2Y5qVNzIvDccz9AjJg1w0qoQ6hjtNbwlsPoBGpHokm-bRFoY7S3K4-TwRs2f406RICvJaEvzx7qMJzP9RYYWD3hkCvfnzHPRO8y8la7ppWBgtNHrrUg0e/download",
+        "prediction": [
+          {
+            "label": "Header",
+            "xmin": 322,
+            "ymin": 22,
+            "xmax": 583,
+            "ymax": 57,
+            "score": 1,
+            "ocr_text": "Coast Guard"
+          },
+          {
+            "label": "Content",
+            "xmin": 394,
+            "ymin": 60,
+            "xmax": 1699,
+            "ymax": 112,
+            "score": 0.9999977,
+            "ocr_text": "Airplanes (five Amphibians) bought from General Aviation"
+          },
+          {
+            "label": "Content",
+            "xmin": 438,
+            "ymin": 112,
+            "xmax": 1808,
+            "ymax": 156,
+            "score": 1,
+            "ocr_text": "Corporation sometime ago discussed by EMJT, Admiral Hamlet,"
+          },
+          {
+            "label": "Content",
+            "xmin": 437,
+            "ymin": 152,
+            "xmax": 1879,
+            "ymax": 195,
+            "score": 1,
+            "ocr_text": "and Temple Joyce, President of General Aviation Corporation..."
+          },
+          {
+            "label": "Page",
+            "xmin": 1930,
+            "ymin": 156,
+            "xmax": 1979,
+            "ymax": 195,
+            "score": 1,
+            "ocr_text": "48"
+          }
+        ],
+        "page": 0,
+        "request_file_id": "0b3de660-5759-48a8-8616-0a855782c713",
+        "filepath": "uploadedfiles/0767da44-03bd-414b-b864-b4c9781dea10/PredictionImages/336403376.jpeg",
+        "id": "9a404a2e-bd65-11ea-828f-3646ee9ced79"
+      },
+      {
+        "message": "Success",
+        "input": "https://public.boxcloud.com/d/1/b1!GolPWygToDv3LeXx4Ql0g5BQFCZXZgl0A5wDKPh7ZFWKqYzzJq3AkkA2KdqqYHb0Dp3lAtardquaRZl1o7sqpekO0h_y62RWXWYQBrycRaC2F301CjmhEeEa__B58hh3gxUUxF9OiqArIDoh4c6w_59xcpuF9EfJ4jaqo304WhHClnT9kQGgHPnNxf-j30qzGUL-g1pBjyPGy81ctSf7mCVl_NMgdq02WYDBtO9w_wc_qnZMmRoy7Phum0Y-G9hyngniVukq1AmrxFGNONGvKEpZgx3twiA46LF3MBOGuS4OXmD8khkRiVsx3wsMwIiJwnvoXoOXCmYk_zQCF8IBBBt5dadQfcIX_3wOKLCD447gnKbavz-y_scYNCWXfPd9VcPEFsuIkiuUiej0xpm-UGUh9CbKtnDSSAUdJIRCCJP_F5oGpClpJX7PtfcIzVXEchwvgZ-XxrooCt1-6ifKG0ixMaQYeCLGKH3Gnand1gX8GQQWgX73smAkIOUUqVHI-iQBwqS9uyKogr_aNg8v8-Eqt1TUBBEI0WYNbVogG02rc9rrDG1oJUp-s5iHTHdj3icIMwYOoH4r8nbePDlMWkmIBsYfMoWrw2sz-Yp9ANedqAAd1YJXfEumfxfLZxctacx4foO19DcYRb7yGdzg242w0fDQG3XRJ4j8QhOIg0OLtAoxLUhk-Afbm1T4dA2ixHuwmh2poQNeW3sh_gbeLHaL2J_KAePNtdILmUMUudeC1WvG9Rw7LEHzKAeANVQ_pATsZ9wW_1QY1HLVSx30cGyEhuPv6ala0Dwyjz12VRMNbQGGpIqUrOPyNVDJ_JiGfgHuMXnUe0ClpIiGdTiVrMwgTQYCSlSi1LGCa7Rk5vfk2hjFIEtq_yqSIbkBgn368u5-wFrvbghuctP9Xbs43MzdRP3QEFy_FYSTZJYWCFObMOrPKyep0_Wc05rRCOx3Msi-FelwmsEKAOalIui19QVPQXoBAN5uDsMnBqvkEmUDCvNhVkyu8IDiJfFa7dLoNvnC0ofVACsqGTJ6-toZZ8IEv2XcvcgffRK9dveZEGWC5ZI3XF9kLS_NvbXlBptY5fww_08ptFfWwR5AxPAysIng-qmDbYr_fl6KCBQzcMPGXyO5cBKk3zBLy2708GHVbAEAYX4trHPjB9YytJIYhoG6u5H7Kv3npG5DPSx7Xm6fHHNnMJ2UNPh1NDhh_tgQBy-5D2e30v_uP5ciNTXrCuygLyt6145AlbN6hdZvR4jKqdfoGYpGQvYA_Qh0d8x6pwuUTGfOYUeDr4gOoQ../download",
+        "prediction": [
+          {
+            "label": "Header",
+            "xmin": 321,
+            "ymin": 12,
+            "xmax": 463,
+            "ymax": 50,
+            "score": 1,
+            "ocr_text": "Budget"
+          },
+          {
+            "label": "Content",
+            "xmin": 392,
+            "ymin": 48,
+            "xmax": 1347,
+            "ymax": 99,
+            "score": 0.99992234,
+            "ocr_text": "HJr and Douglas work with FDR on message"
+          },
+          {
+            "label": "Date",
+            "xmin": 1418,
+            "ymin": 48,
+            "xmax": 1691,
+            "ymax": 95,
+            "score": 1,
+            "ocr_text": "4/19/34...."
+          },
+          {
+            "label": "Content",
+            "xmin": 440,
+            "ymin": 96,
+            "xmax": 867,
+            "ymax": 139,
+            "score": 0.99999994,
+            "ocr_text": "8) First draft...."
+          },
+          {
+            "label": "Page",
+            "xmin": 1929,
+            "ymin": 54,
+            "xmax": 1977,
+            "ymax": 89,
+            "score": 1,
+            "ocr_text": "44"
+          },
+          {
+            "label": "Page",
+            "xmin": 1928,
+            "ymin": 98,
+            "xmax": 1973,
+            "ymax": 135,
+            "score": 1,
+            "ocr_text": "45"
+          }
+        ],
+        "page": 0,
+        "request_file_id": "fb2f7594-d457-47b0-90ae-d96d26c02b06",
+        "filepath": "uploadedfiles/0767da44-03bd-414b-b864-b4c9781dea10/PredictionImages/600084041.jpeg",
+        "id": "9a404a14-bd65-11ea-828b-3646ee9ced79"
+      },
+      {
+        "message": "Success",
+        "input": "https://public.boxcloud.com/d/1/b1!BMNSKnGrQyogcvrDuvpgPzL2wZlqo6CWgiQ1NmEpP7Da_VAR1Kwiz3T0cwZVhUYcZBUFj4wanabMGZPJKJ2MUPr3vT0w3bVoP3WsFO1FJeqG7O3DuWeYg-8wGJCGz9ZQERJ9cn4hUM2KjuhSzJRj7Gf-LnW9mEy3Kb-1Lpvhm6muxyQac8FUZXs5OJW1yhTM1lkA__Jl1uUnGnUuttBI4tivy3Xu6Ow6L0ZvN7U0Usuva7nCpYt0BWKJaNApHCAiP-9KQd7YXNywEInfjmFDb4cWNd45d-1pYzvZKw4k-Byr7hEkTfb1nmkMh1ySGb8mNBKmMjZTTHTMJUIPltIu9j7mKBNcO9KELxjC9DB1i_FSZcidQvEJr9XFKdEjKeAVIOq8y4ix6epPKGZEcpRX5OngcoFTSs6iBrQi2-BuEC7cR-VzcMPErhfLFJBwhPGD7Pa-pnX000FPJq8gltY68nvCSa0vEMA4GT8mpuPM8vA1BoLOt5h98lAZ9iopXpjbvU4t9jlUCQEKFMTGffMpqjeKeR667EZ17BfW2htZ1yBxL8m_6dPyMrZpahUmCGXL9hRgt2qcSbTvJqTMKuPkhsH3IfECNxGedtoPNZX4eh2vtwX764nOA7FRCws2ElBCZ1ZczQgv4IAC0pkbWSZjfbMow4wP46FW64IZNR_NbnuWpGRPXCnjecTq_uKE91ZiPy1AE3efinLncmPLIFQOMmzzJ762UCX578-4OTJKAJgW1WQXt0Oe7DWiHwpHDOMKuUiyEEDfzR32zDOWoRWs351kvbPxnodgvZDgr_k0tRNdb6QSioYoXLehQdzG04kfIzsX4TReKz1fINcsCUdehJKsi5IMd2ef6kwYYnlsHf69wvH7Zp7mNH2ROFiSclSZDrs4M0GY0H2NS5ecRgFc1QcC8qVsaOSFfJFmxRypy8Zioe_ZGE-jg1hD5amOO0HFNTy5c78unCwTK1fVgdTod7ILvwaJDUrsGG3xwh6at1fTkUfiL5erViOI_VRxrIOk0UywhMrkuv8vB93XnAR-KTfmyuV2dVrMAEYXEcM5x5yG6lmM-a96oDNQuSGobgq_n_gB9c1h5MvUc9ag8_YkT7NYZ8jLvKTtzW46KfKa2CO_Bu9SZDoGPw-a0EZ3yzHgrI38ZwHTeHnON-Bn5blktXPdmvY9GV45MjYIopWw3u0-r1j7rlhYuU1RwtGPiOe7Dclbxkx0GMPBVbGTsQ520_-IeBuyhh0KLVJB64BqNbPkQ39o04gQwSrIdr79055hUhbesB7JNa61UFye-w../download",
+        "prediction": [
+          {
+            "label": "Header",
+            "xmin": 322,
+            "ymin": 18,
+            "xmax": 437,
+            "ymax": 49,
+            "score": 1,
+            "ocr_text": "Bonua"
+          },
+          {
+            "label": "Content",
+            "xmin": 393,
+            "ymin": 60,
+            "xmax": 1325,
+            "ymax": 101,
+            "score": 1,
+            "ocr_text": "Veto indioeted by FDR at Council meeting"
+          },
+          {
+            "label": "Date",
+            "xmin": 1396,
+            "ymin": 54,
+            "xmax": 1691,
+            "ymax": 99,
+            "score": 1,
+            "ocr_text": "2/27/34..."
+          },
+          {
+            "label": "Page",
+            "xmin": 1930,
+            "ymin": 54,
+            "xmax": 1975,
+            "ymax": 91,
+            "score": 1,
+            "ocr_text": "16"
+          }
+        ],
+        "page": 0,
+        "request_file_id": "a394a7d1-62fe-4d45-8666-132839a1e9b6",
+        "filepath": "uploadedfiles/0767da44-03bd-414b-b864-b4c9781dea10/PredictionImages/1543719439.jpeg",
+        "id": "9a404a26-bd65-11ea-828d-3646ee9ced79"
+      },
+      {
+        "message": "Success",
+        "input": "https://public.boxcloud.com/d/1/b1!7HTSXMGduJDPrI0DEVYVc3Y1RqG7sGYjd_OdqDNT60kmNRac2AXfWr25j5QEJuE966DYMYYRwLJy-6vSXQ7Pp4lZZ5AZjnn_jH30gWH2aVis-jiHV52DTbTnJ6v8q5_bq2u9Wd9WWJwZXtHgmvFWls09SOkHd4DLvMRWpL9vaIyV-t_2VJkSlR8UeprszNPHNV7IY253PPaDLvErV9hbS_WMxNabfQkpiL8zVV3V_-hBeN9iOtX3kE1abHUmFdgZ_FLi6DvBfCL55yQHFGmS3P74_YZYFX84dnYbnsrzki9kmDdxyLZNm2YgtoHKhIVh3JzO0bosDJzpc_L8ebr6GFo79uZz3LlYcTPZo9NG-4YoRK-i6lVTpk4lGfr6x0JUEsNZv2I85LFbNHq8mjOtEIRjafeR7BIjTo5eyXJOnYjuF1pk1VB2jqEPEezVto46chFbfQqXk5HbS3I3ZTUn2Bks6CVHoZwvUCEsu2ePlwOMGD1jxC0mWfb3RRhZ-OdKl8uCYKhZx1sXkUop0_I3Bp-2YW0lyqadIFcbZ_I_qtZC192ILhbjGXXDPwlSRCaLsd9oouEUB1M7Td1UPTPZjysP-_R0-Myyoocc3ab3AfDh0buITEB1PBJ7UsDF0PyAhNrsYnG1eVctlGMLFqbu1NEXo2n7C0EppaPdRnRDM3i1PizUV7qBm4NT7-RgXKsr8BCGwzLBEJ683ZECmUoPKF5el3FJDHdMZ2goNwnwlimsvGy5NxpK1SZ25JDhzqkhSTaQSRgCfCqc812sMHPGuaFf-92jOoRBxL5_ZqH0pFixjmbKKH5cH9h3ZkH3Eth71VMuCf8Nvm6nR3oHJyCzVPBtpXIjhhTf2qAu2wbxnlHZr0ICJTAYj0VqULf5oLn0TmxRyWAtxq7_zSTnUnu4b5ZV_vUOBgQcEOZVntnTU8Bk6Xrh4oyWIgjMFAqS7NX0hdR4oEbh7nQI5hPzq2lDaEzjOvvVpWO23PCxJeznLgDQ82hcb1oknqPyeNdNKjkB6-ZyKx2H4g5uep4Jpzo08Am8_dBucLuRHYGVxXb457ppBfEeEYnFjY3jw_n-dZTN5yI5yRegBTMNqLSXsqG5BToya5lD-hPNmfHUVhVKQ11d4Ugs8WddnxS0Lv6If00oxdW0LcGbi0Vb52CQ8AWAODWvghEtxA3R6rR-ApuMP08bEqvA2J_3ObK1TeGh_gpjZeHFFdYa3_gdgM5HYNZ5bvV-11gjsBZnrLafStYwyc3svetRNJBWz8VHgliS7hp4K8P39_Gq9FIuO88sWw../download",
+        "prediction": [
+          {
+            "label": "Header",
+            "xmin": 1289,
+            "ymin": -1,
+            "xmax": 1382,
+            "ymax": 25,
+            "score": 0.99999976,
+            "ocr_text": "1934"
+          },
+          {
+            "label": "Header",
+            "xmin": 690,
+            "ymin": 27,
+            "xmax": 1103,
+            "ymax": 77,
+            "score": 0.9981235,
+            "ocr_text": "(including October"
+          },
+          {
+            "label": "Content",
+            "xmin": 1126,
+            "ymin": 25,
+            "xmax": 1559,
+            "ymax": 74,
+            "score": 0.87597275,
+            "ocr_text": "and December, 1933)"
+          }
+        ],
+        "page": 0,
+        "request_file_id": "68f6c767-d4a3-44d6-8369-451ef3541347",
+        "filepath": "uploadedfiles/0767da44-03bd-414b-b864-b4c9781dea10/PredictionImages/1112276658.jpeg",
+        "id": "9a404a2a-bd65-11ea-828e-3646ee9ced79"
+      },
+      {
+        "message": "Success",
+        "input": "https://public.boxcloud.com/d/1/b1!Q8zx-cNlLfIF3p19D4_xHZrovv5ga82D28c0g-N5ZkQjdxyouwxxEiDENwamTtqpDxjHys97RZq0mb-1VJwEzpiK3M6kFjPPAj-64JS_DfDtGX9wQaBQgYScS9sHFEUwONXkEjorWJDbRTUMGX1foYgyp8axbtH9I345YAx9gLXyQMP8LWRzhYPIfQnnRN_PQbF0CROWR4x0dCbtDvg1hK1sL8LFx_JINgUvvohYIv_85SWX3ZEwn4M_B-Q8O1IZKIKyrQYcdS_7P6KpESTOh8rRD4Sq2fNilaSS514Cg-ByDc1RGWZHmLejzYdCqAON6oV13vctX7ARiHkrjCuyI5w_TX1rPnADqgQtnU_ZZVBjDE4iqtYc_R9c1-2ENTUuYBoZFJlmqx4vQ-A__pO4vzssqN8wyOwmP0Ng4lSR9w421PKXTikiwnB_PBTeUb4yuf2gU5g3BLJSTkry8MHAK8g8CRiE33V-isOVfJ8VFmY2b3RUGO7NbHsAVrUhMGYzExM23rJ3VoLTo5SbgZKYDoTOu9QSoqqjrEWwzs-G7ttvVvKMBLouspqCqJgjXoMpN-yxyk2TTnyun-eCWckCGqx0bfCqYnv9JzLMthTB6VDFCLx0R4lDLvRqPUVshd_xDKvX-2am3XxTuTcOw4LUS7iX4DoA6Xp2lDWu7Gl0j36Luh0V6Te93WUEqmaydTOBam9FlM0Tdlo8PJFY2WhXfWRTWdszYvuTGcpYSKdqI0hlxzCYmRHd4N_LnW9pbJnNzM-qUhJ-hiT6eu3LXOtMr7lR73ILYpt5kg0CiRY0PbCgN0nsY2dlIeYPGm_OdPkI75HZkA2r9a62OP-jiEHpH1BfkVzxY94EU18z5EFMqqm18yzqvN9ogWuw58mg_1lKh75maGMXgedBSEx80BXHWIWjxFP7U8ep9PjWvdO8xDbKclzol9zQAqPWXpAa4dxZDOEPIgluZEc5mrGZFWmmN3b_zdDmOAArrkY5SokHCYXO92DXSADmZiVfSdOdHnHEs0_49Aj8-X9lXbTINyp0H5pDPbsFcM_rqhp71d-H15TB_rR3ggexAFPjAMDzwHpQ1Bjw929VvzvqywZFxj08tfxEoz1Whe2JYfdxZk9LVELYYSSkBd9VFC_c0gzwP4qjQfls03NVsINSzm9CFKEqPPU3XqTfYDzaGblgXP4n52iBBzryHY5ZXrL2Vxqf-BxofXZZ817FB7l5-nIfEyca8NmIdznIrx4SNHah4yH4gwF5Ae1SQpx53A_yHjyb2bdGtVgbiz7xCZa1hFL9oQ../download",
+        "prediction": [
+          {
+            "label": "Header",
+            "xmin": 326,
+            "ymin": 7,
+            "xmax": 673,
+            "ymax": 53,
+            "score": 1,
+            "ocr_text": "Crowley, Leo T."
+          },
+          {
+            "label": "Content",
+            "xmin": 396,
+            "ymin": 45,
+            "xmax": 1825,
+            "ymax": 91,
+            "score": 1,
+            "ocr_text": "Difficulties with J.F.T. O'Connor over appointments disaussed"
+          },
+          {
+            "label": "Page",
+            "xmin": 1942,
+            "ymin": 87,
+            "xmax": 1992,
+            "ymax": 123,
+            "score": 1,
+            "ocr_text": "16"
+          }
+        ],
+        "page": 0,
+        "request_file_id": "c0f59cef-5aa0-4f71-8ffe-ba6c74f7dfe0",
+        "filepath": "uploadedfiles/0767da44-03bd-414b-b864-b4c9781dea10/PredictionImages/2100148007.jpeg",
+        "id": "9a404a22-bd65-11ea-828c-3646ee9ced79"
+      }
+    ]
+  },
+  "call2": {
+    "message": "Success",
+    "result": [
+      {
+        "message": "Success",
+        "input": "https://public.boxcloud.com/d/1/b1!RIry6ahSV7N3brTgKjWkr9MXy1mMH2v7kdDXSeEehG9g6QU-b6-3VRt2N5NC054zuypnPi52UjvM4ma8tGto2fCLjOKMPRXUsPwhjMDaoCOSOOZPtt21ATrjrLKMSx27y_m-6UTqnJw6Cjk-JX0UR2Hzp6zBEIgvXauORBKG_cH76KZl86eAlw4b86jUFlEtujMjYAZy1jcTTyK41m2gYTm4-Fuh3lKXYW38Y9Bu6csC-ATuMSxf7tpkPUBNQCcp8ikkGcn9b__mexVaF_sqkfTtGiXRomkVn7zOBAGeWvy4xu6wCKvC9NDxYiggAkk0aIftMEgtRPc9VfD4E-t0TTTjjZZDC9MV9a1cpYlcdDJC9wkxWJ9Yhpod1quptG7HJ8mXK58DlZqSExs7avENtwk7A0gU6DdYCw4PCAg8zt18oiwkhpiRFZQnb7d3LbyVOLjtWfMOVHF7efcaIEVdV7ihDUURSzQVmWYmwDeffY-Z_fq0iHk9OzsXmn2e8Y8_M87rv2dwmxr5pw0KKUBaqCBlSKJl2PavqmOWyweq4yJHwIy3xoR4UrDBJXGhADi9Us9RpewzTSfFWg1SsjC6nMrlCVKn2WmBhmf5SuaD4wkXke1gVPL6heuJjNuUFnDtYUOrhar-TW6CQRcGrQD05XzO9rewaRU8zzFt3vtOnR3eruzwAFyd1rThBZRMhMhqxJfWbjBE_UGhurGIPW4bVXQsZ9ZlWm97wOcA_xXhm0gvXEriyZaNwnJOCiPw3WGyKQkuCyc0UN3PYrFy_EsY_GZ2plkgMqYNSLElz7_4_C1TnvUEvTdpqbE-B1hhyfciCT4BwSRSZ84Vi81_SbjGEUwWN8yb3F6H1-QOsmX0lx6Uf9dfQWQWmpbN1UmXJh_ZDDdYkSWChW83ZUk8Gt2BAoWTgUEJ-_8ghL5m5gvjbqrzMdoANvN5dsP2Xd1blzMJwCY4ybJNoOwPuZODqmhoHWY7TGGyk5CveRu5Q7s3rwFxAk1YVN-1tuD9YEJnJERh02LlQ2mePF2dfnYAYo4yJm28tTniSk6y3e-VIFx1_hGRcC9GwcVFNDLLc18XmkzMw4qbF8WNXRdfyBK4dqj2OBNoYej9fUmhq39rMoNp3Mn9ShB-G_ns_eayCe1UZSPq7bGl04oGArWgbRaWnbtj7zarpfv2Y5qVNzIvDccz9AjJg1w0qoQ6hjtNbwlsPoBGpHokm-bRFoY7S3K4-TwRs2f406RICvJaEvzx7qMJzP9RYYWD3hkCvfnzHPRO8y8la7ppWBgtNHrrUg0e/download",
+        "prediction": [
+          {
+            "label": "Header",
+            "xmin": 322,
+            "ymin": 22,
+            "xmax": 583,
+            "ymax": 57,
+            "score": 1,
+            "ocr_text": "Coast Guard"
+          },
+          {
+            "label": "Content",
+            "xmin": 394,
+            "ymin": 60,
+            "xmax": 1699,
+            "ymax": 112,
+            "score": 0.9999977,
+            "ocr_text": "Airplanes (five Amphibians) bought from General Aviation"
+          },
+          {
+            "label": "Content",
+            "xmin": 438,
+            "ymin": 112,
+            "xmax": 1808,
+            "ymax": 156,
+            "score": 1,
+            "ocr_text": "Corporation sometime ago discussed by EMJT, Admiral Hamlet,"
+          },
+          {
+            "label": "Content",
+            "xmin": 437,
+            "ymin": 152,
+            "xmax": 1879,
+            "ymax": 195,
+            "score": 1,
+            "ocr_text": "and Temple Joyce, President of General Aviation Corporation..."
+          },
+          {
+            "label": "Page",
+            "xmin": 1930,
+            "ymin": 156,
+            "xmax": 1979,
+            "ymax": 195,
+            "score": 1,
+            "ocr_text": "48"
+          }
+        ],
+        "page": 0,
+        "request_file_id": "d5c8d11e-afbb-4642-a11f-6fd1cb9e8c87",
+        "filepath": "uploadedfiles/0767da44-03bd-414b-b864-b4c9781dea10/PredictionImages/1319051107.jpeg",
+        "id": "9bc65a13-bd65-11ea-8d4c-da2a4d750946"
+      },
+      {
+        "message": "Success",
+        "input": "https://public.boxcloud.com/d/1/b1!GolPWygToDv3LeXx4Ql0g5BQFCZXZgl0A5wDKPh7ZFWKqYzzJq3AkkA2KdqqYHb0Dp3lAtardquaRZl1o7sqpekO0h_y62RWXWYQBrycRaC2F301CjmhEeEa__B58hh3gxUUxF9OiqArIDoh4c6w_59xcpuF9EfJ4jaqo304WhHClnT9kQGgHPnNxf-j30qzGUL-g1pBjyPGy81ctSf7mCVl_NMgdq02WYDBtO9w_wc_qnZMmRoy7Phum0Y-G9hyngniVukq1AmrxFGNONGvKEpZgx3twiA46LF3MBOGuS4OXmD8khkRiVsx3wsMwIiJwnvoXoOXCmYk_zQCF8IBBBt5dadQfcIX_3wOKLCD447gnKbavz-y_scYNCWXfPd9VcPEFsuIkiuUiej0xpm-UGUh9CbKtnDSSAUdJIRCCJP_F5oGpClpJX7PtfcIzVXEchwvgZ-XxrooCt1-6ifKG0ixMaQYeCLGKH3Gnand1gX8GQQWgX73smAkIOUUqVHI-iQBwqS9uyKogr_aNg8v8-Eqt1TUBBEI0WYNbVogG02rc9rrDG1oJUp-s5iHTHdj3icIMwYOoH4r8nbePDlMWkmIBsYfMoWrw2sz-Yp9ANedqAAd1YJXfEumfxfLZxctacx4foO19DcYRb7yGdzg242w0fDQG3XRJ4j8QhOIg0OLtAoxLUhk-Afbm1T4dA2ixHuwmh2poQNeW3sh_gbeLHaL2J_KAePNtdILmUMUudeC1WvG9Rw7LEHzKAeANVQ_pATsZ9wW_1QY1HLVSx30cGyEhuPv6ala0Dwyjz12VRMNbQGGpIqUrOPyNVDJ_JiGfgHuMXnUe0ClpIiGdTiVrMwgTQYCSlSi1LGCa7Rk5vfk2hjFIEtq_yqSIbkBgn368u5-wFrvbghuctP9Xbs43MzdRP3QEFy_FYSTZJYWCFObMOrPKyep0_Wc05rRCOx3Msi-FelwmsEKAOalIui19QVPQXoBAN5uDsMnBqvkEmUDCvNhVkyu8IDiJfFa7dLoNvnC0ofVACsqGTJ6-toZZ8IEv2XcvcgffRK9dveZEGWC5ZI3XF9kLS_NvbXlBptY5fww_08ptFfWwR5AxPAysIng-qmDbYr_fl6KCBQzcMPGXyO5cBKk3zBLy2708GHVbAEAYX4trHPjB9YytJIYhoG6u5H7Kv3npG5DPSx7Xm6fHHNnMJ2UNPh1NDhh_tgQBy-5D2e30v_uP5ciNTXrCuygLyt6145AlbN6hdZvR4jKqdfoGYpGQvYA_Qh0d8x6pwuUTGfOYUeDr4gOoQ../download",
+        "prediction": [
+          {
+            "label": "Header",
+            "xmin": 321,
+            "ymin": 12,
+            "xmax": 463,
+            "ymax": 50,
+            "score": 1,
+            "ocr_text": "Budget"
+          },
+          {
+            "label": "Content",
+            "xmin": 392,
+            "ymin": 48,
+            "xmax": 1347,
+            "ymax": 99,
+            "score": 0.99992234,
+            "ocr_text": "HJr and Douglas work with FDR on message"
+          },
+          {
+            "label": "Date",
+            "xmin": 1418,
+            "ymin": 48,
+            "xmax": 1691,
+            "ymax": 95,
+            "score": 1,
+            "ocr_text": "4/19/34...."
+          },
+          {
+            "label": "Content",
+            "xmin": 440,
+            "ymin": 96,
+            "xmax": 867,
+            "ymax": 139,
+            "score": 0.99999994,
+            "ocr_text": "8) First draft...."
+          },
+          {
+            "label": "Page",
+            "xmin": 1929,
+            "ymin": 54,
+            "xmax": 1977,
+            "ymax": 89,
+            "score": 1,
+            "ocr_text": "44"
+          },
+          {
+            "label": "Page",
+            "xmin": 1928,
+            "ymin": 98,
+            "xmax": 1973,
+            "ymax": 135,
+            "score": 1,
+            "ocr_text": "45"
+          }
+        ],
+        "page": 0,
+        "request_file_id": "4b6dd4ff-72df-429c-9c72-acc7704b7f41",
+        "filepath": "uploadedfiles/0767da44-03bd-414b-b864-b4c9781dea10/PredictionImages/727927108.jpeg",
+        "id": "9bc65a0b-bd65-11ea-8d49-da2a4d750946"
+      },
+      {
+        "message": "Success",
+        "input": "https://public.boxcloud.com/d/1/b1!BMNSKnGrQyogcvrDuvpgPzL2wZlqo6CWgiQ1NmEpP7Da_VAR1Kwiz3T0cwZVhUYcZBUFj4wanabMGZPJKJ2MUPr3vT0w3bVoP3WsFO1FJeqG7O3DuWeYg-8wGJCGz9ZQERJ9cn4hUM2KjuhSzJRj7Gf-LnW9mEy3Kb-1Lpvhm6muxyQac8FUZXs5OJW1yhTM1lkA__Jl1uUnGnUuttBI4tivy3Xu6Ow6L0ZvN7U0Usuva7nCpYt0BWKJaNApHCAiP-9KQd7YXNywEInfjmFDb4cWNd45d-1pYzvZKw4k-Byr7hEkTfb1nmkMh1ySGb8mNBKmMjZTTHTMJUIPltIu9j7mKBNcO9KELxjC9DB1i_FSZcidQvEJr9XFKdEjKeAVIOq8y4ix6epPKGZEcpRX5OngcoFTSs6iBrQi2-BuEC7cR-VzcMPErhfLFJBwhPGD7Pa-pnX000FPJq8gltY68nvCSa0vEMA4GT8mpuPM8vA1BoLOt5h98lAZ9iopXpjbvU4t9jlUCQEKFMTGffMpqjeKeR667EZ17BfW2htZ1yBxL8m_6dPyMrZpahUmCGXL9hRgt2qcSbTvJqTMKuPkhsH3IfECNxGedtoPNZX4eh2vtwX764nOA7FRCws2ElBCZ1ZczQgv4IAC0pkbWSZjfbMow4wP46FW64IZNR_NbnuWpGRPXCnjecTq_uKE91ZiPy1AE3efinLncmPLIFQOMmzzJ762UCX578-4OTJKAJgW1WQXt0Oe7DWiHwpHDOMKuUiyEEDfzR32zDOWoRWs351kvbPxnodgvZDgr_k0tRNdb6QSioYoXLehQdzG04kfIzsX4TReKz1fINcsCUdehJKsi5IMd2ef6kwYYnlsHf69wvH7Zp7mNH2ROFiSclSZDrs4M0GY0H2NS5ecRgFc1QcC8qVsaOSFfJFmxRypy8Zioe_ZGE-jg1hD5amOO0HFNTy5c78unCwTK1fVgdTod7ILvwaJDUrsGG3xwh6at1fTkUfiL5erViOI_VRxrIOk0UywhMrkuv8vB93XnAR-KTfmyuV2dVrMAEYXEcM5x5yG6lmM-a96oDNQuSGobgq_n_gB9c1h5MvUc9ag8_YkT7NYZ8jLvKTtzW46KfKa2CO_Bu9SZDoGPw-a0EZ3yzHgrI38ZwHTeHnON-Bn5blktXPdmvY9GV45MjYIopWw3u0-r1j7rlhYuU1RwtGPiOe7Dclbxkx0GMPBVbGTsQ520_-IeBuyhh0KLVJB64BqNbPkQ39o04gQwSrIdr79055hUhbesB7JNa61UFye-w../download",
+        "prediction": [
+          {
+            "label": "Header",
+            "xmin": 322,
+            "ymin": 18,
+            "xmax": 437,
+            "ymax": 49,
+            "score": 1,
+            "ocr_text": "Bonua"
+          },
+          {
+            "label": "Content",
+            "xmin": 393,
+            "ymin": 60,
+            "xmax": 1325,
+            "ymax": 101,
+            "score": 1,
+            "ocr_text": "Veto indioeted by FDR at Council meeting"
+          },
+          {
+            "label": "Date",
+            "xmin": 1396,
+            "ymin": 54,
+            "xmax": 1691,
+            "ymax": 99,
+            "score": 1,
+            "ocr_text": "2/27/34..."
+          },
+          {
+            "label": "Page",
+            "xmin": 1930,
+            "ymin": 54,
+            "xmax": 1975,
+            "ymax": 91,
+            "score": 1,
+            "ocr_text": "16"
+          }
+        ],
+        "page": 0,
+        "request_file_id": "540ec151-eb27-4b13-b1b5-6a1e9e7e0839",
+        "filepath": "uploadedfiles/0767da44-03bd-414b-b864-b4c9781dea10/PredictionImages/654744878.jpeg",
+        "id": "9bc65a10-bd65-11ea-8d4b-da2a4d750946"
+      },
+      {
+        "message": "Success",
+        "input": "https://public.boxcloud.com/d/1/b1!7HTSXMGduJDPrI0DEVYVc3Y1RqG7sGYjd_OdqDNT60kmNRac2AXfWr25j5QEJuE966DYMYYRwLJy-6vSXQ7Pp4lZZ5AZjnn_jH30gWH2aVis-jiHV52DTbTnJ6v8q5_bq2u9Wd9WWJwZXtHgmvFWls09SOkHd4DLvMRWpL9vaIyV-t_2VJkSlR8UeprszNPHNV7IY253PPaDLvErV9hbS_WMxNabfQkpiL8zVV3V_-hBeN9iOtX3kE1abHUmFdgZ_FLi6DvBfCL55yQHFGmS3P74_YZYFX84dnYbnsrzki9kmDdxyLZNm2YgtoHKhIVh3JzO0bosDJzpc_L8ebr6GFo79uZz3LlYcTPZo9NG-4YoRK-i6lVTpk4lGfr6x0JUEsNZv2I85LFbNHq8mjOtEIRjafeR7BIjTo5eyXJOnYjuF1pk1VB2jqEPEezVto46chFbfQqXk5HbS3I3ZTUn2Bks6CVHoZwvUCEsu2ePlwOMGD1jxC0mWfb3RRhZ-OdKl8uCYKhZx1sXkUop0_I3Bp-2YW0lyqadIFcbZ_I_qtZC192ILhbjGXXDPwlSRCaLsd9oouEUB1M7Td1UPTPZjysP-_R0-Myyoocc3ab3AfDh0buITEB1PBJ7UsDF0PyAhNrsYnG1eVctlGMLFqbu1NEXo2n7C0EppaPdRnRDM3i1PizUV7qBm4NT7-RgXKsr8BCGwzLBEJ683ZECmUoPKF5el3FJDHdMZ2goNwnwlimsvGy5NxpK1SZ25JDhzqkhSTaQSRgCfCqc812sMHPGuaFf-92jOoRBxL5_ZqH0pFixjmbKKH5cH9h3ZkH3Eth71VMuCf8Nvm6nR3oHJyCzVPBtpXIjhhTf2qAu2wbxnlHZr0ICJTAYj0VqULf5oLn0TmxRyWAtxq7_zSTnUnu4b5ZV_vUOBgQcEOZVntnTU8Bk6Xrh4oyWIgjMFAqS7NX0hdR4oEbh7nQI5hPzq2lDaEzjOvvVpWO23PCxJeznLgDQ82hcb1oknqPyeNdNKjkB6-ZyKx2H4g5uep4Jpzo08Am8_dBucLuRHYGVxXb457ppBfEeEYnFjY3jw_n-dZTN5yI5yRegBTMNqLSXsqG5BToya5lD-hPNmfHUVhVKQ11d4Ugs8WddnxS0Lv6If00oxdW0LcGbi0Vb52CQ8AWAODWvghEtxA3R6rR-ApuMP08bEqvA2J_3ObK1TeGh_gpjZeHFFdYa3_gdgM5HYNZ5bvV-11gjsBZnrLafStYwyc3svetRNJBWz8VHgliS7hp4K8P39_Gq9FIuO88sWw../download",
+        "prediction": [
+          {
+            "label": "Header",
+            "xmin": 1289,
+            "ymin": -1,
+            "xmax": 1382,
+            "ymax": 25,
+            "score": 0.99999976,
+            "ocr_text": "1934"
+          },
+          {
+            "label": "Header",
+            "xmin": 690,
+            "ymin": 27,
+            "xmax": 1103,
+            "ymax": 77,
+            "score": 0.9981235,
+            "ocr_text": "(including October"
+          },
+          {
+            "label": "Content",
+            "xmin": 1126,
+            "ymin": 25,
+            "xmax": 1559,
+            "ymax": 74,
+            "score": 0.87597275,
+            "ocr_text": "and December, 1933)"
+          }
+        ],
+        "page": 0,
+        "request_file_id": "a367aaa5-a831-4c11-ab77-a74b6212b7bf",
+        "filepath": "uploadedfiles/0767da44-03bd-414b-b864-b4c9781dea10/PredictionImages/2037250348.jpeg",
+        "id": "9bc65a0e-bd65-11ea-8d4a-da2a4d750946"
+      },
+      {
+        "message": "Success",
+        "input": "https://public.boxcloud.com/d/1/b1!Q8zx-cNlLfIF3p19D4_xHZrovv5ga82D28c0g-N5ZkQjdxyouwxxEiDENwamTtqpDxjHys97RZq0mb-1VJwEzpiK3M6kFjPPAj-64JS_DfDtGX9wQaBQgYScS9sHFEUwONXkEjorWJDbRTUMGX1foYgyp8axbtH9I345YAx9gLXyQMP8LWRzhYPIfQnnRN_PQbF0CROWR4x0dCbtDvg1hK1sL8LFx_JINgUvvohYIv_85SWX3ZEwn4M_B-Q8O1IZKIKyrQYcdS_7P6KpESTOh8rRD4Sq2fNilaSS514Cg-ByDc1RGWZHmLejzYdCqAON6oV13vctX7ARiHkrjCuyI5w_TX1rPnADqgQtnU_ZZVBjDE4iqtYc_R9c1-2ENTUuYBoZFJlmqx4vQ-A__pO4vzssqN8wyOwmP0Ng4lSR9w421PKXTikiwnB_PBTeUb4yuf2gU5g3BLJSTkry8MHAK8g8CRiE33V-isOVfJ8VFmY2b3RUGO7NbHsAVrUhMGYzExM23rJ3VoLTo5SbgZKYDoTOu9QSoqqjrEWwzs-G7ttvVvKMBLouspqCqJgjXoMpN-yxyk2TTnyun-eCWckCGqx0bfCqYnv9JzLMthTB6VDFCLx0R4lDLvRqPUVshd_xDKvX-2am3XxTuTcOw4LUS7iX4DoA6Xp2lDWu7Gl0j36Luh0V6Te93WUEqmaydTOBam9FlM0Tdlo8PJFY2WhXfWRTWdszYvuTGcpYSKdqI0hlxzCYmRHd4N_LnW9pbJnNzM-qUhJ-hiT6eu3LXOtMr7lR73ILYpt5kg0CiRY0PbCgN0nsY2dlIeYPGm_OdPkI75HZkA2r9a62OP-jiEHpH1BfkVzxY94EU18z5EFMqqm18yzqvN9ogWuw58mg_1lKh75maGMXgedBSEx80BXHWIWjxFP7U8ep9PjWvdO8xDbKclzol9zQAqPWXpAa4dxZDOEPIgluZEc5mrGZFWmmN3b_zdDmOAArrkY5SokHCYXO92DXSADmZiVfSdOdHnHEs0_49Aj8-X9lXbTINyp0H5pDPbsFcM_rqhp71d-H15TB_rR3ggexAFPjAMDzwHpQ1Bjw929VvzvqywZFxj08tfxEoz1Whe2JYfdxZk9LVELYYSSkBd9VFC_c0gzwP4qjQfls03NVsINSzm9CFKEqPPU3XqTfYDzaGblgXP4n52iBBzryHY5ZXrL2Vxqf-BxofXZZ817FB7l5-nIfEyca8NmIdznIrx4SNHah4yH4gwF5Ae1SQpx53A_yHjyb2bdGtVgbiz7xCZa1hFL9oQ../download",
+        "prediction": [
+          {
+            "label": "Header",
+            "xmin": 326,
+            "ymin": 7,
+            "xmax": 673,
+            "ymax": 53,
+            "score": 1,
+            "ocr_text": "Crowley, Leo T."
+          },
+          {
+            "label": "Content",
+            "xmin": 396,
+            "ymin": 45,
+            "xmax": 1825,
+            "ymax": 91,
+            "score": 1,
+            "ocr_text": "Difficulties with J.F.T. O'Connor over appointments disaussed"
+          },
+          {
+            "label": "Page",
+            "xmin": 1942,
+            "ymin": 87,
+            "xmax": 1992,
+            "ymax": 123,
+            "score": 1,
+            "ocr_text": "16"
+          }
+        ],
+        "page": 0,
+        "request_file_id": "c6ab16de-2f8a-445f-995d-cab28a30a63b",
+        "filepath": "uploadedfiles/0767da44-03bd-414b-b864-b4c9781dea10/PredictionImages/1136361864.jpeg",
+        "id": "9bc65a03-bd65-11ea-8d48-da2a4d750946"
+      },
+      {
+        "message": "Success",
+        "input": "https://public.boxcloud.com/d/1/b1!URqvYF5xtjA1wy_6ew_M5Za4-LDiy3bQnw-FesSPRcLe0AauugiY5C-S3Y6vPYRrpFypzwuloKfCH-4tqgJ4ErdlrFCMb-Kqb28Dvrx0Nk4dpJdUsVknTDggehqnxyKLj4rJn9MITsEA-yJkFM7lRoSDzDNKq2nER3COOqWhPJRnpwmWNHrs6_MSo19H7CTRV6BGJJMSIpyxkcT1KsIXrmpocBN21RGq7c3kJxhqtKAHiign4-TUmwgM2FJdXq1s2llHH7CW-LWHg6fBvkogjt9dBLYmAhyrR5hE-Z4JQaRwlvExeCBTKMWoVdbit73I-_ivLQ5l7i7tcJIGscGXf7AL23VWOWoBYGHw6u01BkVvTGKVFvyc8LYCwUXZQBavPy8aOy8H8jvOvd0b_QxViFcAklonRoAHrhdN7KtmyEUigxXsAFslJRFHLKSZQWyfY4Q0Yv03eE8YPfxZgYi2Z44WYgcH-L4C1TR9X_tUz7b6aFRXs-Uf5ymr3Ax--AO__XugJbPjJOXHJNoMrV-TIWN3oteHx_3ze2jKI6Vs3LZjclGxlCtl6QEz73ZWJK2_J9UASgDmn4lCwxlhEYPg5Odhjk7Jj4PpldNUwCi_0GO0ywNBXTkvUUruKIsPkdj8pM_XAfdsG6BTMFCNXR25xduccVI4iwibf1Aww1TWtXIpTSB-VbbTKH8bXMLV-8peN2eSL2gWTr4E_b_6fBHPcMWf8Hag7LGO59g44z1HocWnoRwCp8WMSHx4ZbDVoBqCddnE-LEfeeBWDjp6MCJ2wH2bOlPLQA4ZBurpD1v9Bn5n7W3KT_1_hmVxgheGBHg-v2eK5tanoJ5O1ew_b_Rw8249zQwLerigr7ijArii4ur-CgwTp3ZwKQZMyRLrIkv88X7DyhECyr9Ler5mIbOM1pEFvSe3zvX2YjS_LGfxSecj4t5tGxFnHr2_Z3Lh28sl1QdkTJymvm5vbf_9chTT_LmEhP2VoY1cVF2Xsi-5IvfHtK55lCYPKT_GlLFdDXkbk1Td2U6uiYD4EtrRVRTtY3tuqNUt2ZyWt6zT0ca7FIF0ZhbDUNnwG7zvyFaIK8M_qnWqle1JyIVx11euAy3IsOsSZOwIJ8OceyTDX4HMHSXITuo3e8XqMTnEnm_A07328rmdKFsf_x033z194BjK7jCmzL60vjm0ImyVr8Lnx42EDrDs-sEV6KOmwjwRipYUpCXSgm1x9X5OrsWugdZ5DvjnGXbPvrtFcD5yMYeGUq2DjqfqeTFWRh-zgXS9fyLLY7TMXjhlLvUpkwo1Eg../download",
+        "prediction": [
+          {
+            "label": "Header",
+            "xmin": 322,
+            "ymin": 16,
+            "xmax": 787,
+            "ymax": 51,
+            "score": 1,
+            "ocr_text": "Bankhead Cotton Bill"
+          },
+          {
+            "label": "Content",
+            "xmin": 391,
+            "ymin": 58,
+            "xmax": 1509,
+            "ymax": 104,
+            "score": 0.9999999,
+            "ocr_text": "HAJT (in his Own handwriting) advises FDR to get"
+          },
+          {
+            "label": "Content",
+            "xmin": 440,
+            "ymin": 110,
+            "xmax": 1499,
+            "ymax": 149,
+            "score": 1,
+            "ocr_text": "Wallace's ritten endoreement before signing.."
+          },
+          {
+            "label": "Page",
+            "xmin": 1917,
+            "ymin": 87,
+            "xmax": 2004,
+            "ymax": 156,
+            "score": 1,
+            "ocr_text": "50"
+          }
+        ],
+        "page": 0,
+        "request_file_id": "289f207e-02d9-41ef-9f39-a505ef652de1",
+        "filepath": "uploadedfiles/0767da44-03bd-414b-b864-b4c9781dea10/PredictionImages/1551526312.jpeg",
+        "id": "9bc65a16-bd65-11ea-8d4d-da2a4d750946"
+      }
+    ]
+  },
+  "call3": {
+    "message": "Success",
+    "result": [
+      {
+        "message": "Success",
+        "input": "https://public.boxcloud.com/d/1/b1!RIry6ahSV7N3brTgKjWkr9MXy1mMH2v7kdDXSeEehG9g6QU-b6-3VRt2N5NC054zuypnPi52UjvM4ma8tGto2fCLjOKMPRXUsPwhjMDaoCOSOOZPtt21ATrjrLKMSx27y_m-6UTqnJw6Cjk-JX0UR2Hzp6zBEIgvXauORBKG_cH76KZl86eAlw4b86jUFlEtujMjYAZy1jcTTyK41m2gYTm4-Fuh3lKXYW38Y9Bu6csC-ATuMSxf7tpkPUBNQCcp8ikkGcn9b__mexVaF_sqkfTtGiXRomkVn7zOBAGeWvy4xu6wCKvC9NDxYiggAkk0aIftMEgtRPc9VfD4E-t0TTTjjZZDC9MV9a1cpYlcdDJC9wkxWJ9Yhpod1quptG7HJ8mXK58DlZqSExs7avENtwk7A0gU6DdYCw4PCAg8zt18oiwkhpiRFZQnb7d3LbyVOLjtWfMOVHF7efcaIEVdV7ihDUURSzQVmWYmwDeffY-Z_fq0iHk9OzsXmn2e8Y8_M87rv2dwmxr5pw0KKUBaqCBlSKJl2PavqmOWyweq4yJHwIy3xoR4UrDBJXGhADi9Us9RpewzTSfFWg1SsjC6nMrlCVKn2WmBhmf5SuaD4wkXke1gVPL6heuJjNuUFnDtYUOrhar-TW6CQRcGrQD05XzO9rewaRU8zzFt3vtOnR3eruzwAFyd1rThBZRMhMhqxJfWbjBE_UGhurGIPW4bVXQsZ9ZlWm97wOcA_xXhm0gvXEriyZaNwnJOCiPw3WGyKQkuCyc0UN3PYrFy_EsY_GZ2plkgMqYNSLElz7_4_C1TnvUEvTdpqbE-B1hhyfciCT4BwSRSZ84Vi81_SbjGEUwWN8yb3F6H1-QOsmX0lx6Uf9dfQWQWmpbN1UmXJh_ZDDdYkSWChW83ZUk8Gt2BAoWTgUEJ-_8ghL5m5gvjbqrzMdoANvN5dsP2Xd1blzMJwCY4ybJNoOwPuZODqmhoHWY7TGGyk5CveRu5Q7s3rwFxAk1YVN-1tuD9YEJnJERh02LlQ2mePF2dfnYAYo4yJm28tTniSk6y3e-VIFx1_hGRcC9GwcVFNDLLc18XmkzMw4qbF8WNXRdfyBK4dqj2OBNoYej9fUmhq39rMoNp3Mn9ShB-G_ns_eayCe1UZSPq7bGl04oGArWgbRaWnbtj7zarpfv2Y5qVNzIvDccz9AjJg1w0qoQ6hjtNbwlsPoBGpHokm-bRFoY7S3K4-TwRs2f406RICvJaEvzx7qMJzP9RYYWD3hkCvfnzHPRO8y8la7ppWBgtNHrrUg0e/download",
+        "prediction": [
+          {
+            "label": "Header",
+            "xmin": 322,
+            "ymin": 22,
+            "xmax": 583,
+            "ymax": 57,
+            "score": 1,
+            "ocr_text": "Coast Guard"
+          },
+          {
+            "label": "Content",
+            "xmin": 394,
+            "ymin": 60,
+            "xmax": 1699,
+            "ymax": 112,
+            "score": 0.9999977,
+            "ocr_text": "Airplanes (five Amphibians) bought from General Aviation"
+          },
+          {
+            "label": "Content",
+            "xmin": 438,
+            "ymin": 112,
+            "xmax": 1808,
+            "ymax": 156,
+            "score": 1,
+            "ocr_text": "Corporation sometime ago discussed by EMJT, Admiral Hamlet,"
+          },
+          {
+            "label": "Content",
+            "xmin": 437,
+            "ymin": 152,
+            "xmax": 1879,
+            "ymax": 195,
+            "score": 1,
+            "ocr_text": "and Temple Joyce, President of General Aviation Corporation..."
+          },
+          {
+            "label": "Page",
+            "xmin": 1930,
+            "ymin": 156,
+            "xmax": 1979,
+            "ymax": 195,
+            "score": 1,
+            "ocr_text": "48"
+          }
+        ],
+        "page": 0,
+        "request_file_id": "787037de-c000-4fc7-8ae2-27cf425442d2",
+        "filepath": "uploadedfiles/0767da44-03bd-414b-b864-b4c9781dea10/PredictionImages/1340325265.jpeg",
+        "id": "9cfd0090-bd65-11ea-8d55-da2a4d750946"
+      },
+      {
+        "message": "Success",
+        "input": "https://public.boxcloud.com/d/1/b1!GolPWygToDv3LeXx4Ql0g5BQFCZXZgl0A5wDKPh7ZFWKqYzzJq3AkkA2KdqqYHb0Dp3lAtardquaRZl1o7sqpekO0h_y62RWXWYQBrycRaC2F301CjmhEeEa__B58hh3gxUUxF9OiqArIDoh4c6w_59xcpuF9EfJ4jaqo304WhHClnT9kQGgHPnNxf-j30qzGUL-g1pBjyPGy81ctSf7mCVl_NMgdq02WYDBtO9w_wc_qnZMmRoy7Phum0Y-G9hyngniVukq1AmrxFGNONGvKEpZgx3twiA46LF3MBOGuS4OXmD8khkRiVsx3wsMwIiJwnvoXoOXCmYk_zQCF8IBBBt5dadQfcIX_3wOKLCD447gnKbavz-y_scYNCWXfPd9VcPEFsuIkiuUiej0xpm-UGUh9CbKtnDSSAUdJIRCCJP_F5oGpClpJX7PtfcIzVXEchwvgZ-XxrooCt1-6ifKG0ixMaQYeCLGKH3Gnand1gX8GQQWgX73smAkIOUUqVHI-iQBwqS9uyKogr_aNg8v8-Eqt1TUBBEI0WYNbVogG02rc9rrDG1oJUp-s5iHTHdj3icIMwYOoH4r8nbePDlMWkmIBsYfMoWrw2sz-Yp9ANedqAAd1YJXfEumfxfLZxctacx4foO19DcYRb7yGdzg242w0fDQG3XRJ4j8QhOIg0OLtAoxLUhk-Afbm1T4dA2ixHuwmh2poQNeW3sh_gbeLHaL2J_KAePNtdILmUMUudeC1WvG9Rw7LEHzKAeANVQ_pATsZ9wW_1QY1HLVSx30cGyEhuPv6ala0Dwyjz12VRMNbQGGpIqUrOPyNVDJ_JiGfgHuMXnUe0ClpIiGdTiVrMwgTQYCSlSi1LGCa7Rk5vfk2hjFIEtq_yqSIbkBgn368u5-wFrvbghuctP9Xbs43MzdRP3QEFy_FYSTZJYWCFObMOrPKyep0_Wc05rRCOx3Msi-FelwmsEKAOalIui19QVPQXoBAN5uDsMnBqvkEmUDCvNhVkyu8IDiJfFa7dLoNvnC0ofVACsqGTJ6-toZZ8IEv2XcvcgffRK9dveZEGWC5ZI3XF9kLS_NvbXlBptY5fww_08ptFfWwR5AxPAysIng-qmDbYr_fl6KCBQzcMPGXyO5cBKk3zBLy2708GHVbAEAYX4trHPjB9YytJIYhoG6u5H7Kv3npG5DPSx7Xm6fHHNnMJ2UNPh1NDhh_tgQBy-5D2e30v_uP5ciNTXrCuygLyt6145AlbN6hdZvR4jKqdfoGYpGQvYA_Qh0d8x6pwuUTGfOYUeDr4gOoQ../download",
+        "prediction": [
+          {
+            "label": "Header",
+            "xmin": 321,
+            "ymin": 12,
+            "xmax": 463,
+            "ymax": 50,
+            "score": 1,
+            "ocr_text": "Budget"
+          },
+          {
+            "label": "Content",
+            "xmin": 392,
+            "ymin": 48,
+            "xmax": 1347,
+            "ymax": 99,
+            "score": 0.99992234,
+            "ocr_text": "HJr and Douglas work with FDR on message"
+          },
+          {
+            "label": "Date",
+            "xmin": 1418,
+            "ymin": 48,
+            "xmax": 1691,
+            "ymax": 95,
+            "score": 1,
+            "ocr_text": "4/19/34...."
+          },
+          {
+            "label": "Content",
+            "xmin": 440,
+            "ymin": 96,
+            "xmax": 867,
+            "ymax": 139,
+            "score": 0.99999994,
+            "ocr_text": "8) First draft...."
+          },
+          {
+            "label": "Page",
+            "xmin": 1929,
+            "ymin": 54,
+            "xmax": 1977,
+            "ymax": 89,
+            "score": 1,
+            "ocr_text": "44"
+          },
+          {
+            "label": "Page",
+            "xmin": 1928,
+            "ymin": 98,
+            "xmax": 1973,
+            "ymax": 135,
+            "score": 1,
+            "ocr_text": "45"
+          }
+        ],
+        "page": 0,
+        "request_file_id": "cf24faca-0c3e-4236-ab3d-3b874927949e",
+        "filepath": "uploadedfiles/0767da44-03bd-414b-b864-b4c9781dea10/PredictionImages/680652926.jpeg",
+        "id": "9cfd006e-bd65-11ea-8d4f-da2a4d750946"
+      },
+      {
+        "message": "Success",
+        "input": "https://public.boxcloud.com/d/1/b1!BMNSKnGrQyogcvrDuvpgPzL2wZlqo6CWgiQ1NmEpP7Da_VAR1Kwiz3T0cwZVhUYcZBUFj4wanabMGZPJKJ2MUPr3vT0w3bVoP3WsFO1FJeqG7O3DuWeYg-8wGJCGz9ZQERJ9cn4hUM2KjuhSzJRj7Gf-LnW9mEy3Kb-1Lpvhm6muxyQac8FUZXs5OJW1yhTM1lkA__Jl1uUnGnUuttBI4tivy3Xu6Ow6L0ZvN7U0Usuva7nCpYt0BWKJaNApHCAiP-9KQd7YXNywEInfjmFDb4cWNd45d-1pYzvZKw4k-Byr7hEkTfb1nmkMh1ySGb8mNBKmMjZTTHTMJUIPltIu9j7mKBNcO9KELxjC9DB1i_FSZcidQvEJr9XFKdEjKeAVIOq8y4ix6epPKGZEcpRX5OngcoFTSs6iBrQi2-BuEC7cR-VzcMPErhfLFJBwhPGD7Pa-pnX000FPJq8gltY68nvCSa0vEMA4GT8mpuPM8vA1BoLOt5h98lAZ9iopXpjbvU4t9jlUCQEKFMTGffMpqjeKeR667EZ17BfW2htZ1yBxL8m_6dPyMrZpahUmCGXL9hRgt2qcSbTvJqTMKuPkhsH3IfECNxGedtoPNZX4eh2vtwX764nOA7FRCws2ElBCZ1ZczQgv4IAC0pkbWSZjfbMow4wP46FW64IZNR_NbnuWpGRPXCnjecTq_uKE91ZiPy1AE3efinLncmPLIFQOMmzzJ762UCX578-4OTJKAJgW1WQXt0Oe7DWiHwpHDOMKuUiyEEDfzR32zDOWoRWs351kvbPxnodgvZDgr_k0tRNdb6QSioYoXLehQdzG04kfIzsX4TReKz1fINcsCUdehJKsi5IMd2ef6kwYYnlsHf69wvH7Zp7mNH2ROFiSclSZDrs4M0GY0H2NS5ecRgFc1QcC8qVsaOSFfJFmxRypy8Zioe_ZGE-jg1hD5amOO0HFNTy5c78unCwTK1fVgdTod7ILvwaJDUrsGG3xwh6at1fTkUfiL5erViOI_VRxrIOk0UywhMrkuv8vB93XnAR-KTfmyuV2dVrMAEYXEcM5x5yG6lmM-a96oDNQuSGobgq_n_gB9c1h5MvUc9ag8_YkT7NYZ8jLvKTtzW46KfKa2CO_Bu9SZDoGPw-a0EZ3yzHgrI38ZwHTeHnON-Bn5blktXPdmvY9GV45MjYIopWw3u0-r1j7rlhYuU1RwtGPiOe7Dclbxkx0GMPBVbGTsQ520_-IeBuyhh0KLVJB64BqNbPkQ39o04gQwSrIdr79055hUhbesB7JNa61UFye-w../download",
+        "prediction": [
+          {
+            "label": "Header",
+            "xmin": 322,
+            "ymin": 18,
+            "xmax": 437,
+            "ymax": 49,
+            "score": 1,
+            "ocr_text": "Bonua"
+          },
+          {
+            "label": "Content",
+            "xmin": 393,
+            "ymin": 60,
+            "xmax": 1325,
+            "ymax": 101,
+            "score": 1,
+            "ocr_text": "Veto indioeted by FDR at Council meeting"
+          },
+          {
+            "label": "Date",
+            "xmin": 1396,
+            "ymin": 54,
+            "xmax": 1691,
+            "ymax": 99,
+            "score": 1,
+            "ocr_text": "2/27/34..."
+          },
+          {
+            "label": "Page",
+            "xmin": 1930,
+            "ymin": 54,
+            "xmax": 1975,
+            "ymax": 91,
+            "score": 1,
+            "ocr_text": "16"
+          }
+        ],
+        "page": 0,
+        "request_file_id": "e47acd12-873b-4cb0-933f-f14df24df1f9",
+        "filepath": "uploadedfiles/0767da44-03bd-414b-b864-b4c9781dea10/PredictionImages/1800859259.jpeg",
+        "id": "9cfd0088-bd65-11ea-8d53-da2a4d750946"
+      },
+      {
+        "message": "Success",
+        "input": "https://public.boxcloud.com/d/1/b1!7HTSXMGduJDPrI0DEVYVc3Y1RqG7sGYjd_OdqDNT60kmNRac2AXfWr25j5QEJuE966DYMYYRwLJy-6vSXQ7Pp4lZZ5AZjnn_jH30gWH2aVis-jiHV52DTbTnJ6v8q5_bq2u9Wd9WWJwZXtHgmvFWls09SOkHd4DLvMRWpL9vaIyV-t_2VJkSlR8UeprszNPHNV7IY253PPaDLvErV9hbS_WMxNabfQkpiL8zVV3V_-hBeN9iOtX3kE1abHUmFdgZ_FLi6DvBfCL55yQHFGmS3P74_YZYFX84dnYbnsrzki9kmDdxyLZNm2YgtoHKhIVh3JzO0bosDJzpc_L8ebr6GFo79uZz3LlYcTPZo9NG-4YoRK-i6lVTpk4lGfr6x0JUEsNZv2I85LFbNHq8mjOtEIRjafeR7BIjTo5eyXJOnYjuF1pk1VB2jqEPEezVto46chFbfQqXk5HbS3I3ZTUn2Bks6CVHoZwvUCEsu2ePlwOMGD1jxC0mWfb3RRhZ-OdKl8uCYKhZx1sXkUop0_I3Bp-2YW0lyqadIFcbZ_I_qtZC192ILhbjGXXDPwlSRCaLsd9oouEUB1M7Td1UPTPZjysP-_R0-Myyoocc3ab3AfDh0buITEB1PBJ7UsDF0PyAhNrsYnG1eVctlGMLFqbu1NEXo2n7C0EppaPdRnRDM3i1PizUV7qBm4NT7-RgXKsr8BCGwzLBEJ683ZECmUoPKF5el3FJDHdMZ2goNwnwlimsvGy5NxpK1SZ25JDhzqkhSTaQSRgCfCqc812sMHPGuaFf-92jOoRBxL5_ZqH0pFixjmbKKH5cH9h3ZkH3Eth71VMuCf8Nvm6nR3oHJyCzVPBtpXIjhhTf2qAu2wbxnlHZr0ICJTAYj0VqULf5oLn0TmxRyWAtxq7_zSTnUnu4b5ZV_vUOBgQcEOZVntnTU8Bk6Xrh4oyWIgjMFAqS7NX0hdR4oEbh7nQI5hPzq2lDaEzjOvvVpWO23PCxJeznLgDQ82hcb1oknqPyeNdNKjkB6-ZyKx2H4g5uep4Jpzo08Am8_dBucLuRHYGVxXb457ppBfEeEYnFjY3jw_n-dZTN5yI5yRegBTMNqLSXsqG5BToya5lD-hPNmfHUVhVKQ11d4Ugs8WddnxS0Lv6If00oxdW0LcGbi0Vb52CQ8AWAODWvghEtxA3R6rR-ApuMP08bEqvA2J_3ObK1TeGh_gpjZeHFFdYa3_gdgM5HYNZ5bvV-11gjsBZnrLafStYwyc3svetRNJBWz8VHgliS7hp4K8P39_Gq9FIuO88sWw../download",
+        "prediction": [
+          {
+            "label": "Header",
+            "xmin": 1289,
+            "ymin": -1,
+            "xmax": 1382,
+            "ymax": 25,
+            "score": 0.99999976,
+            "ocr_text": "1934"
+          },
+          {
+            "label": "Header",
+            "xmin": 690,
+            "ymin": 27,
+            "xmax": 1103,
+            "ymax": 77,
+            "score": 0.9981235,
+            "ocr_text": "(including October"
+          },
+          {
+            "label": "Content",
+            "xmin": 1126,
+            "ymin": 25,
+            "xmax": 1559,
+            "ymax": 74,
+            "score": 0.87597275,
+            "ocr_text": "and December, 1933)"
+          }
+        ],
+        "page": 0,
+        "request_file_id": "dfc834f3-f952-4a81-b944-28f1d5997d77",
+        "filepath": "uploadedfiles/0767da44-03bd-414b-b864-b4c9781dea10/PredictionImages/252314853.jpeg",
+        "id": "9cfd007f-bd65-11ea-8d51-da2a4d750946"
+      },
+      {
+        "message": "Success",
+        "input": "https://public.boxcloud.com/d/1/b1!Q8zx-cNlLfIF3p19D4_xHZrovv5ga82D28c0g-N5ZkQjdxyouwxxEiDENwamTtqpDxjHys97RZq0mb-1VJwEzpiK3M6kFjPPAj-64JS_DfDtGX9wQaBQgYScS9sHFEUwONXkEjorWJDbRTUMGX1foYgyp8axbtH9I345YAx9gLXyQMP8LWRzhYPIfQnnRN_PQbF0CROWR4x0dCbtDvg1hK1sL8LFx_JINgUvvohYIv_85SWX3ZEwn4M_B-Q8O1IZKIKyrQYcdS_7P6KpESTOh8rRD4Sq2fNilaSS514Cg-ByDc1RGWZHmLejzYdCqAON6oV13vctX7ARiHkrjCuyI5w_TX1rPnADqgQtnU_ZZVBjDE4iqtYc_R9c1-2ENTUuYBoZFJlmqx4vQ-A__pO4vzssqN8wyOwmP0Ng4lSR9w421PKXTikiwnB_PBTeUb4yuf2gU5g3BLJSTkry8MHAK8g8CRiE33V-isOVfJ8VFmY2b3RUGO7NbHsAVrUhMGYzExM23rJ3VoLTo5SbgZKYDoTOu9QSoqqjrEWwzs-G7ttvVvKMBLouspqCqJgjXoMpN-yxyk2TTnyun-eCWckCGqx0bfCqYnv9JzLMthTB6VDFCLx0R4lDLvRqPUVshd_xDKvX-2am3XxTuTcOw4LUS7iX4DoA6Xp2lDWu7Gl0j36Luh0V6Te93WUEqmaydTOBam9FlM0Tdlo8PJFY2WhXfWRTWdszYvuTGcpYSKdqI0hlxzCYmRHd4N_LnW9pbJnNzM-qUhJ-hiT6eu3LXOtMr7lR73ILYpt5kg0CiRY0PbCgN0nsY2dlIeYPGm_OdPkI75HZkA2r9a62OP-jiEHpH1BfkVzxY94EU18z5EFMqqm18yzqvN9ogWuw58mg_1lKh75maGMXgedBSEx80BXHWIWjxFP7U8ep9PjWvdO8xDbKclzol9zQAqPWXpAa4dxZDOEPIgluZEc5mrGZFWmmN3b_zdDmOAArrkY5SokHCYXO92DXSADmZiVfSdOdHnHEs0_49Aj8-X9lXbTINyp0H5pDPbsFcM_rqhp71d-H15TB_rR3ggexAFPjAMDzwHpQ1Bjw929VvzvqywZFxj08tfxEoz1Whe2JYfdxZk9LVELYYSSkBd9VFC_c0gzwP4qjQfls03NVsINSzm9CFKEqPPU3XqTfYDzaGblgXP4n52iBBzryHY5ZXrL2Vxqf-BxofXZZ817FB7l5-nIfEyca8NmIdznIrx4SNHah4yH4gwF5Ae1SQpx53A_yHjyb2bdGtVgbiz7xCZa1hFL9oQ../download",
+        "prediction": [
+          {
+            "label": "Header",
+            "xmin": 326,
+            "ymin": 7,
+            "xmax": 673,
+            "ymax": 53,
+            "score": 1,
+            "ocr_text": "Crowley, Leo T."
+          },
+          {
+            "label": "Content",
+            "xmin": 396,
+            "ymin": 45,
+            "xmax": 1825,
+            "ymax": 91,
+            "score": 1,
+            "ocr_text": "Difficulties with J.F.T. O'Connor over appointments disaussed"
+          },
+          {
+            "label": "Page",
+            "xmin": 1942,
+            "ymin": 87,
+            "xmax": 1992,
+            "ymax": 123,
+            "score": 1,
+            "ocr_text": "16"
+          }
+        ],
+        "page": 0,
+        "request_file_id": "5e5bfdb8-f0fe-4758-98bc-ce718708f613",
+        "filepath": "uploadedfiles/0767da44-03bd-414b-b864-b4c9781dea10/PredictionImages/1129569134.jpeg",
+        "id": "9cfd007b-bd65-11ea-8d50-da2a4d750946"
+      },
+      {
+        "message": "Success",
+        "input": "https://public.boxcloud.com/d/1/b1!URqvYF5xtjA1wy_6ew_M5Za4-LDiy3bQnw-FesSPRcLe0AauugiY5C-S3Y6vPYRrpFypzwuloKfCH-4tqgJ4ErdlrFCMb-Kqb28Dvrx0Nk4dpJdUsVknTDggehqnxyKLj4rJn9MITsEA-yJkFM7lRoSDzDNKq2nER3COOqWhPJRnpwmWNHrs6_MSo19H7CTRV6BGJJMSIpyxkcT1KsIXrmpocBN21RGq7c3kJxhqtKAHiign4-TUmwgM2FJdXq1s2llHH7CW-LWHg6fBvkogjt9dBLYmAhyrR5hE-Z4JQaRwlvExeCBTKMWoVdbit73I-_ivLQ5l7i7tcJIGscGXf7AL23VWOWoBYGHw6u01BkVvTGKVFvyc8LYCwUXZQBavPy8aOy8H8jvOvd0b_QxViFcAklonRoAHrhdN7KtmyEUigxXsAFslJRFHLKSZQWyfY4Q0Yv03eE8YPfxZgYi2Z44WYgcH-L4C1TR9X_tUz7b6aFRXs-Uf5ymr3Ax--AO__XugJbPjJOXHJNoMrV-TIWN3oteHx_3ze2jKI6Vs3LZjclGxlCtl6QEz73ZWJK2_J9UASgDmn4lCwxlhEYPg5Odhjk7Jj4PpldNUwCi_0GO0ywNBXTkvUUruKIsPkdj8pM_XAfdsG6BTMFCNXR25xduccVI4iwibf1Aww1TWtXIpTSB-VbbTKH8bXMLV-8peN2eSL2gWTr4E_b_6fBHPcMWf8Hag7LGO59g44z1HocWnoRwCp8WMSHx4ZbDVoBqCddnE-LEfeeBWDjp6MCJ2wH2bOlPLQA4ZBurpD1v9Bn5n7W3KT_1_hmVxgheGBHg-v2eK5tanoJ5O1ew_b_Rw8249zQwLerigr7ijArii4ur-CgwTp3ZwKQZMyRLrIkv88X7DyhECyr9Ler5mIbOM1pEFvSe3zvX2YjS_LGfxSecj4t5tGxFnHr2_Z3Lh28sl1QdkTJymvm5vbf_9chTT_LmEhP2VoY1cVF2Xsi-5IvfHtK55lCYPKT_GlLFdDXkbk1Td2U6uiYD4EtrRVRTtY3tuqNUt2ZyWt6zT0ca7FIF0ZhbDUNnwG7zvyFaIK8M_qnWqle1JyIVx11euAy3IsOsSZOwIJ8OceyTDX4HMHSXITuo3e8XqMTnEnm_A07328rmdKFsf_x033z194BjK7jCmzL60vjm0ImyVr8Lnx42EDrDs-sEV6KOmwjwRipYUpCXSgm1x9X5OrsWugdZ5DvjnGXbPvrtFcD5yMYeGUq2DjqfqeTFWRh-zgXS9fyLLY7TMXjhlLvUpkwo1Eg../download",
+        "prediction": [
+          {
+            "label": "Header",
+            "xmin": 322,
+            "ymin": 16,
+            "xmax": 787,
+            "ymax": 51,
+            "score": 1,
+            "ocr_text": "Bankhead Cotton Bill"
+          },
+          {
+            "label": "Content",
+            "xmin": 391,
+            "ymin": 58,
+            "xmax": 1509,
+            "ymax": 104,
+            "score": 0.9999999,
+            "ocr_text": "HAJT (in his Own handwriting) advises FDR to get"
+          },
+          {
+            "label": "Content",
+            "xmin": 440,
+            "ymin": 110,
+            "xmax": 1499,
+            "ymax": 149,
+            "score": 1,
+            "ocr_text": "Wallace's ritten endoreement before signing.."
+          },
+          {
+            "label": "Page",
+            "xmin": 1917,
+            "ymin": 87,
+            "xmax": 2004,
+            "ymax": 156,
+            "score": 1,
+            "ocr_text": "50"
+          }
+        ],
+        "page": 0,
+        "request_file_id": "b13d0e24-23ae-4993-898c-345dffa14798",
+        "filepath": "uploadedfiles/0767da44-03bd-414b-b864-b4c9781dea10/PredictionImages/875255970.jpeg",
+        "id": "9cfd0083-bd65-11ea-8d52-da2a4d750946"
+      },
+      {
+        "message": "Success",
+        "input": "https://public.boxcloud.com/d/1/b1!8nmKPQG3DTf7UIH3MmWLq8U-ZwQ6FuraRsM16nOfmwMSOjcDKSDozrveIARvNCjB4rAX2doC7t9T-tdM1p5n4GUP8sujwLLHyNimTnYB7c_ZtM2Yo5Uhs4T42sH1llcpJCbHLiX8U0MFk4knzNrBZia0and1Z0iSFtPaFpUO1zgOilg0CTfmzo0UeQjJ5LAL98qEo86fROGCE9WwevPiDXd3eU3_mol1fcxarLmYEWJFSfEOfPNLZW3L-QZssBshw2kakGJDgizJfiZZbvbJDZyYfm5pifC4EF9I59zBxzvZG3RUNsx0kSNNjrQZa69ZY4TV2wCuB9R9ANo8F1UVLEVc0jx8wDGbkMlCbbaukTikKjxbZV84dwXWTxxdprHWv_4ynoocLcKsNQNXl81zLKhum3KT-_Ycl5HrBHDWoCQ-6rZoK-L6O8suZJbOx6BthbNfY5zklk66o3KFPYV_C8l4EC4NEtdSr8N5oUmZVx9m5ywJqlC1Fjz756M4GtZdqGEJxvwPjrIvnL8-NnVdHn29y03MLMwO6bcN9J_AFq66LtCWmPPjxymRBO5beNKAfaskIuv97HSIgRF_G8wsETHXU8cuZAIYKXWod_IjLS7HknN_C_ssW6HZtEEZWu9_ivR6l6pvM0S0Mtp_GE8Bw5-9FUh9xqZOsDEY1HyFjW-nHleUh4EuWYQ024NRMgmO60ururJEH-7NSbtIqZsxwc6aTY0SR95b_VNQ4-WKOh9a_Y0bgbE2ImHtHWq8R860ulRGYDe883H9u7MWDxyTEqUbdrIhvMQrC32Tx8fG91UOhMBsJzr1vPsW86hVfO_zlafyMWPRSSfuLNHfxUktSgaBPpwUjbGlDBtwaqb68W7LwRPe9dcHE1M_hj693Nrwi5qevpNSMuNxds1wdfrdQKLDZ5EDKgFDkMeIfDi2yWePvQG9YkzMOTix5Tmjz5HzXUlQwwAEhuMK6QUf0GHZrpbWflhVPKyfjEBINenmdG3f0_0DtyiiiIjWid73u5tgYzLgWvYaFrIliR7Xrwwq1AVD0u31-U0ZrEM8eCGkYOa3zFJ29jlFGXCHwFlfV1i6WUFd9-rdQmDvy54IMhKs8IPq6H8MFWo2eb9nGrThUL-RzwG63_srkZcUlin6Klk3APeN_NmutROju1_qF7ZFSXx8JRXnS44dv6iNDwok5zS-KTCEE5fcpXQ6mvbr1_7a38hXFOkDzBw8klhompy78sFQjKtQeGmEXJrFro_oN6umUYq9sMHrgbh3EWzQhlNALZwyn46d9BF1vCOQuw../download",
+        "prediction": [
+          {
+            "label": "Header",
+            "xmin": 324,
+            "ymin": 20,
+            "xmax": 605,
+            "ymax": 53,
+            "score": 1,
+            "ocr_text": "Cocoanut O11"
+          },
+          {
+            "label": "Content",
+            "xmin": 390,
+            "ymin": 66,
+            "xmax": 1325,
+            "ymax": 101,
+            "score": 1,
+            "ocr_text": "Bill disoussed at White House conference"
+          },
+          {
+            "label": "Date",
+            "xmin": 1393,
+            "ymin": 43,
+            "xmax": 1681,
+            "ymax": 115,
+            "score": 1,
+            "ocr_text": "5/1/34......"
+          },
+          {
+            "label": "Page",
+            "xmin": 1931,
+            "ymin": 61,
+            "xmax": 1979,
+            "ymax": 98,
+            "score": 1,
+            "ocr_text": "41"
+          }
+        ],
+        "page": 0,
+        "request_file_id": "f0a04acc-b894-4e19-8e0a-4588ebb69101",
+        "filepath": "uploadedfiles/0767da44-03bd-414b-b864-b4c9781dea10/PredictionImages/593325319.jpeg",
+        "id": "9cfd008c-bd65-11ea-8d54-da2a4d750946"
+      }
+    ]
+  }
+}
