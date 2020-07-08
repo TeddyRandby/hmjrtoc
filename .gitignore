@@ -2,3 +2,5 @@ temp/
 TOCs/
 Entries/
 node_modules/
+*.json
+*.csv
