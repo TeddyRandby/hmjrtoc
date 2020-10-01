@@ -7,9 +7,6 @@
 
 const BoxSDK = require("box-node-sdk");
 // const { PredictionServiceClient } = require("@google-cloud/automl").v1;
-const Clipper = require("image-clipper");
-const Canvas = require("canvas");
-var sizeOf = require("image-size");
 // var request = require("request");
 const fs = require("fs");
 const path = require("path");

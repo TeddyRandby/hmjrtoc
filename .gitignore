@@ -2,5 +2,16 @@ temp/
 TOCs/
 Entries/
 node_modules/
-*.json
+env/
 *.csv
+.python-version
+batch.csv
+saved_model.pb
+model/group1-shard1of3.bin
+model/group1-shard2of3.bin
+model/group1-shard3of3.bin
+model/model.json
+fbdata.json
+hmjri-280502-1ade4f753694.json
+ids.json
+.vscode/settings.json
