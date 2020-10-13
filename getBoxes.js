@@ -25,7 +25,7 @@ const chunk = 5;
 // Allow the server 1 min to garbage collect.
 //  - This is needed because a new graph is built
 //    for every call to predict.
-const delay = 500;
+const delay = 1000;
 const cap = pages.length;
 
 async function predictChunk(start, chunk) {
@@ -36,7 +36,7 @@ async function predictChunk(start, chunk) {
       return client.query({
         query: gql`
           query($id: String!) {
-            explodeBoxes(BoxID: $id) {
+            cloudExplodeBoxes(BoxID: $id) {
               left
               top
               width
@@ -51,7 +51,9 @@ async function predictChunk(start, chunk) {
   console.log(responses);
   console.log(((start + chunk) * 100) / cap + "% done.");
   for (let i = 0; i < chunk; i++) {
-    responseData[pages[start + i]] = responses[i].data;
+    if (responses[i].data) {
+      responseData[pages[start + i]] = responses[i].data;
+    }
   }
   if (start + chunk + chunk <= cap) {
     setTimeout(() => {
@@ -59,7 +61,7 @@ async function predictChunk(start, chunk) {
     }, delay);
   } else {
     console.log(Object.keys(pages).length);
-    fs.writeFileSync("boxes.json", JSON.stringify(responseData));
+    fs.writeFileSync("cloudboxes.json", JSON.stringify(responseData));
   }
 }
 

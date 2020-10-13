@@ -12,7 +12,8 @@
     "nano": "node -r esm index.js",
     "fix": "node -r esm fixCSV.js",
     "boxes": "node -r esm getBoxes.js",
-    "parseBoxes": "node -r esm boxparser.js"
+    "parseBoxes": "node -r esm boxparser.js",
+    "clipBoxes": "node -r esm clipBoxes.js"
   },
   "author": "",
   "license": "ISC",
